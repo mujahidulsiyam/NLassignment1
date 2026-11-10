@@ -8,5 +8,5 @@ All coding solutions for the 8 problems are implemented in a single `solutions.t
 ## Technical Blog Posts
 As part of this assignment, I have written two technical blog posts explaining key TypeScript concepts. You can read them by clicking the links below:
 
-* [Type Aliases vs Interfaces in TypeScript](type_alias_vs_typescript.md)
-* [Access Modifiers in TypeScript OOP](access-modifiers.md)
+* [Type Aliases vs Interfaces](type_alias_vs_interface.md)
+* [Access Modifiers in OOP](access_modifiers_typescript.md)
